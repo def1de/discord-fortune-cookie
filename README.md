@@ -1,6 +1,7 @@
 # Simple discord bot to get Active developer badge.
+Requires python 3, pip
 
-## Import your token by using
+## Import your token to environment by using
 
 Linux/MacOS:
 ```

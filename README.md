@@ -1,15 +1,15 @@
-## Simple discord bot to get Active developer badge.
+# Simple discord bot to get Active developer badge.
 
-# Import your token by using
+## Import your token by using
 
 Linux/MacOS:
 ```
-$ export TOKEN = "YOUR_TOKEN_HERE"
+export TOKEN = "YOUR_TOKEN_HERE"
 ```
 
 For Windows use GUI Path manager
 
-# Run with
+## Run with
 Linux/MacOS
 ```
 python3 -m venv venv
@@ -26,6 +26,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-# Get the badge
+## Get the badge
 Authorise your bot on a server and run ```/cookie``` on your discord server
 Claim your badge on the active developer page (it might take up to 24 hours to update and give you the badge)
